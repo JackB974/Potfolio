@@ -1,0 +1,18 @@
+    <header class="presentation">
+        <p>Is it too late to reinvent oneself at 36? Well... No! I am currently enroll in Epitech, a leading computer
+            science school. It is a three years Master degree.
+            The first 4 months (September - December 2026) are intensive courses in order to have the necessaries
+            skills.".<br>
+            From January 2026, for a 33 months lenght, it will be a work-study programm compose of 4 weeks of work in a
+            company and 2 weeks of study at school.
+            I am currently looking for that company. My main interest and the subject of my Master's majoy are
+            cybersecurity and data.</p>
+    </header>
+
+    <nav class="font_size_for_links">
+            <ul>
+                <li><a href="resume.html">Pour lire cette histoire en français, cliquer ici!</a></li>
+
+
+            </ul>
+        </nav>
